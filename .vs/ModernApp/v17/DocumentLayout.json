@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personal\\Coding\\C#\\ModernApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\systemdiagnosisview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\systemdiagnosisview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\helpview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\helpview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\reportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\inventoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\inventoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|d:\\personal\\coding\\c#\\modernapp\\modernapp\\mvvm\\view\\salesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\salesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mvvm\\view\\discoveryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\discoveryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mvvm\\viewmodel\\discoveryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\viewmodel\\discoveryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\themes\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\themes\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|D:\\personal\\Coding\\C#\\ModernApp\\modernapp\\themes\\menubuttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA50CB-D37B-418A-9C32-1D6EAC505EDA}|ModernApp\\ModernApp.csproj|solutionrelative:modernapp\\themes\\menubuttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelpView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\HelpView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\HelpView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\HelpView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\HelpView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:33:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\SettingsView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\SettingsView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:33:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MainWindow.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MainWindow.xaml",
+              "RelativeToolTip": "ModernApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T05:31:20.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ModernApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ModernApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAhwPMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:58:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\DashboardView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\DashboardView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:34:53.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemDiagnosisView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\SystemDiagnosisView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\SystemDiagnosisView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\SystemDiagnosisView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\SystemDiagnosisView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:32:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\ReportsView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\ReportsView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\ReportsView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\ReportsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:31:43.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\EmployeeView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\EmployeeView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\EmployeeView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\EmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:30:45.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\InventoryView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\InventoryView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\InventoryView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\InventoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:29:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "ModernApp\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:09:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\SalesView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\SalesView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\SalesView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\SalesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T01:17:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiscoveryViewModel.cs",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "RelativeToolTip": "ModernApp\\MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:09:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\Model\\user.cs",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\Model\\user.cs",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\Model\\user.cs",
+              "RelativeToolTip": "ModernApp\\MVVM\\Model\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:09:43.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\App.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\App.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\App.xaml",
+              "RelativeToolTip": "ModernApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T16:06:16.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiscoveryView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\DiscoveryView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\DiscoveryView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\DiscoveryView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\DiscoveryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T13:39:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ModernApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:24:09.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\HomeView.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\MVVM\\View\\HomeView.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\MVVM\\View\\HomeView.xaml",
+              "RelativeToolTip": "ModernApp\\MVVM\\View\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T13:39:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextBoxTheme.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\Themes\\TextBoxTheme.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\Themes\\TextBoxTheme.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\Themes\\TextBoxTheme.xaml",
+              "RelativeToolTip": "ModernApp\\Themes\\TextBoxTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T05:33:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuButtonTheme.xaml",
+              "DocumentMoniker": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\Themes\\MenuButtonTheme.xaml",
+              "RelativeDocumentMoniker": "ModernApp\\Themes\\MenuButtonTheme.xaml",
+              "ToolTip": "D:\\personal\\Coding\\C#\\ModernApp\\ModernApp\\Themes\\MenuButtonTheme.xaml",
+              "RelativeToolTip": "ModernApp\\Themes\\MenuButtonTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T05:32:54.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
